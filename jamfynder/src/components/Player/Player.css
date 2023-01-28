@@ -67,7 +67,7 @@
 .artistCss {
   margin-top: 2em;
   padding: 100px 100px;
-  position: center;
+  position: aboslute;
 }
 
 .artist-move {
